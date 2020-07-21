@@ -145,3 +145,29 @@ ul, li{
     font-weight: bold;
     transition: 0.3s;
 }
+
+/*Latest*/
+
+.portfolio{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 130px;
+}
+
+.portfolio button{
+    text-transform: uppercase;
+}
+
+.portfolio button:hover{
+    color: black;
+    background: transparent;
+    border: 2px solid #00897b;
+}
+
+.portfolio img{
+    margin-bottom: 30px;
+}
+
+.filter{
+    padding: 120px 0;
+}
